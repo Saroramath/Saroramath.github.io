@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Blog
-permalink: /blog/
+title: Blogs
+permalink: /blogs/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Archive]
 ---
