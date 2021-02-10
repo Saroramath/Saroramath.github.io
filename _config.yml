@@ -5,7 +5,7 @@ url: "https://saroramath.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Shivam Arora                                    # site's title
 description: "Shivam Arora Math"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+avatar: assets/img/tree.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
