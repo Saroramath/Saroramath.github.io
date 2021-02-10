@@ -29,7 +29,7 @@ disqus_shortname:                                       # Your discus shortname 
 
 # PAGINATION
 paginate: 5
-paginate_path: "/blogs/page:num"
+paginate_path: "/pages/page:num"
 
 # PORTFOLIO
 collections:
