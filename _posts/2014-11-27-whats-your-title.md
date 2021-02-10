@@ -1,10 +1,10 @@
 ---
 layout: post
-title: What's your title
+title: Spout
 hide_title: true
-feature-img: assets/img/feature-img/spout.jpeg
+feature-img: assets/img/feature-img/spout.jpg
 author: shivam
-tags: [Test, Lorem]
+tags: [travel]
 ---
 
 
