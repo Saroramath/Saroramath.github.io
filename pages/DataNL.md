@@ -5,14 +5,14 @@ tags: [DataNL,Data]
 author: Shivam
 excerpt_separator: <!--more-->
 ---
-#DataNL
+# DataNL
 * TOC
 {:toc}
-##About
+## About
 DataNL is a project to collate data and statistics about Newfoundland and Labrador in a single place. The data is displayed into interactive visualization.
 ## Mission
 DataNL aims to increase data literacy in the province and promote data informed public engagement.
 
-#Food prices
+# Food prices
 
 {% include datavisual.html %}
