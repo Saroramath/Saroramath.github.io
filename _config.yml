@@ -9,8 +9,8 @@ avatar: assets/img/tree.png                         # Empty for no avatar in nav
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text:  Shivam # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text:  # Change Blog header text
+header_feature_image: assets/img/pexels/spout.JPG
 footer_text: " "
 
 # Blog
