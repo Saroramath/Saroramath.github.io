@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: data
 title: DataNL
 tags: [DataNL,Data]
 author: Shivam
@@ -16,3 +16,10 @@ DataNL aims to increase data literacy in the province and promote data informed 
 # Food prices
 
 {% include datavisual.html %}
+
+# Temperature
+This is the ten year data for St. John's Temperature from year 2011-2020. [Source](https://climate.copernicus.eu/climate-reanalysis)
+> Latitude: 47.6
+> Longitude: -52.75
+
+{% include 001TempData.html %}
