@@ -22,4 +22,6 @@ This is the ten year data for St. John's Temperature from year 2011-2020. [Sourc
 > Latitude: 47.6
 > Longitude: -52.75
 
+[Data]({% post_url 2020-02-11-data-2 %})
+
 {% include 001TempData.html %}
