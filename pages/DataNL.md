@@ -22,5 +22,5 @@ This is the hourly data of St. John's Temperature from year 2011-2020. [Source](
 > Latitude: 47.6
 > Longitude: -52.75
 
-[See the interactive Graph]({% post_url 2020-02-16-DataNLTemp.md %})
+[See the interactive Graph]({% post_url 2020-02-16-DataNLTemp %})
 
