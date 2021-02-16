@@ -3,7 +3,7 @@ layout: data
 title: DataNL
 tags: [DataNL,Data]
 author: Shivam
-feature-img: "assets/img/Ship2.JPG"
+feature-img: "assets/img/Battery.JPG"
 excerpt_separator: <!--more-->
 ---
 # DataNL
