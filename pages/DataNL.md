@@ -18,10 +18,9 @@ DataNL aims to increase data literacy in the province and promote data informed 
 {% include datavisual.html %}
 
 # Temperature
-This is the ten year data for St. John's Temperature from year 2011-2020. [Source](https://climate.copernicus.eu/climate-reanalysis)
+This is the hourly data of St. John's Temperature from year 2011-2020. [Source](https://climate.copernicus.eu/climate-reanalysis)
 > Latitude: 47.6
 > Longitude: -52.75
 
-[Data]({% post_url 2020-02-11-data-2 %})
+[See the interactive Graph]({% post_url 2020-02-16-DataNLTemp.md %})
 
-{% include 001TempData.html %}
