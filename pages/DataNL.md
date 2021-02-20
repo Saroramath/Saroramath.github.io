@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 * TOC
 {:toc}
 ## About
-DataNL is a project to collate data and statistics about Newfoundland and Labrador in a single place. The data is displayed into interactive visualization.
+DataNL is an ongoing project to collate data and statistics about Newfoundland and Labrador. We aim to create a centralised database with interactive visualizations for better outreach.
 ## Mission
 DataNL aims to increase data literacy in the province and promote data informed public engagement.
 
