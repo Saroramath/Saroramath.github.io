@@ -40,4 +40,4 @@ Sample embedded video
 [See here]({% post_url 2020-02-16-quotes %})
 
 
-<div id="w476024db3bdc8198509196cac8a12194"></div><script type="text/javascript" charset="UTF-8" src="https://www.librarything.com/widget_get.php?userid=Shivamaroramath&theID=w476024db3bdc8198509196cac8a12194"></script><noscript><a href="http://www.librarything.com/profile/Shivamaroramath">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
+
