@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Food Prices
+title: DataNL Food Prices
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [About, Archive]
 ---
