@@ -34,7 +34,7 @@ Sample embedded video
 * 'We didn't' by Stuart Dybek
 * 'Only Orange' by Camillie Bordas
 
-# Favourite Quotes
+# Favourite [Quotes]({% post_url 2020-02-12-quotes %})
 
 
 
