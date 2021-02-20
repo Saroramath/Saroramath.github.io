@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Favourites
-Hide: true
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Favourite]
 ---
@@ -37,7 +36,7 @@ Sample embedded video
 
 # Favourite Quotes
 
-[See here]({% post_url 2020-02-16-quotes %})
+
 
 
 
