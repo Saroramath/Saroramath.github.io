@@ -2,11 +2,26 @@
 layout : page
 ---
 
+I am passionate about learning new things and solving problems. I am currently a PhD candidate at Memorial University of Newfoundland, working on Geometric Group Theory. 
+
+---
+
+* TOC
+{:toc}
+
+# Things I am learning
+
+## Data Science
+I am currently learning Data Science and Machine learning. 
+
+## Web development
+ ### Frontend apps
+ 
+
+
+
+
 {% include aligner.html images="Shivam2.JPG" %}
-
-
-I enjoy solving problems and learning new things. Following are some of the things I am learning. 
-
 
 <!---
 #![Shivam]({{ "/assets/img/Shivam2.JPG" | relative_url}})
