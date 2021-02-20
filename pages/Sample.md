@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Favourite
+title: Favourites
 Hide: true
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Favourite]
