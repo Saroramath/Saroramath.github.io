@@ -5,7 +5,7 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [DataNL, Data]
 ---
 
-{% include datavisual.html %}
+{% include 002DataNLLowIncome.html %}
 
 [Source](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013502)
 [DOI](https://doi.org/10.25318/1110013501-eng)
