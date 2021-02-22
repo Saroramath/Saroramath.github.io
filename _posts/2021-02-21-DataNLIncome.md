@@ -1,10 +1,10 @@
 ---
 layout: page
-title: DataNL Low income by sex
+title: DataNL Low income
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [DataNL, Data]
 ---
-
+# Low income in Newfoundland
 {% include 002DataNLLowIncome.html %}
 
 [Source](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1110013502)
