@@ -11,8 +11,32 @@ layout: newhome
 		</style>
 	</head>
 	<body>
+<style>
+body { 
+    margin: 0; 
+    height: 100vh;
+}
+  
+canvas { 
+    display: block;
+}
 
-
+h1 {
+    position: absolute;
+    top: 2em;
+    left: 2em;
+    font-family: 'Montserrat';
+    font-size: 7em;
+    text-transform: uppercase;
+    width: auto;
+    line-height: .8em;
+    border: 5px solid black;
+    padding: .2em;
+  }
+	
+</style>	
+		
+<h1> Hello </Hello>		
 		<script type="module">
 
             // Find the latest version by visiting https://unpkg.com/three. The URL will
@@ -20,7 +44,7 @@ layout: newhome
             import * as THREE from 'https://unpkg.com/three/build/three.module.js';
 			/* Scene Initialization */
 var scene = new THREE.Scene();
-var camera = new THREE.PerspectiveCamera(10, window.innerWidth / window.innerHeight, 1, 1000);
+var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 1, 1000);
 camera.position.set(0, 0, 1000);
 camera.lookAt(new THREE.Vector3(0, 0, 0));
 
