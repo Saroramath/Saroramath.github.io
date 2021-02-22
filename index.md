@@ -3,11 +3,13 @@ layout : page
 ---
 
 I am passionate about learning new things and solving problems. I am currently a PhD candidate in Mathematics at [Memorial University of Newfoundland](https://www.mun.ca), St. John's. I am working on Geometric Group Theory. 
+{% include animation.html %}
 
 ---
 
 * TOC
 {:toc}
+
 # Learning projects
 
 
