@@ -1,5 +1,8 @@
 ---
 layout : page
+title: About
+feature-img: "assets/img/pexels/travel.jpeg"
+tags: [About]
 ---
 
 I am passionate about learning new things and solving problems. I am currently a PhD candidate in Mathematics at [Memorial University of Newfoundland](https://www.mun.ca), St. John's. I am working on Geometric Group Theory. 
