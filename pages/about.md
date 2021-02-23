@@ -10,9 +10,7 @@ I am passionate about learning new things and solving problems. I am currently a
 
 ---
 
-- [Example 1 Heading](###Example-1-Heading)
- 
-### Example 1 Heading
+
 
 
 # Learning projects
@@ -20,11 +18,7 @@ I am passionate about learning new things and solving problems. I am currently a
 
 ## Data Science and ML 
 
-### Deep Neural Networks
 
-### Data visualizattion
-
-### Reinforcement Learning
 
 
 --- 
