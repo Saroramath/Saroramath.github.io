@@ -18,21 +18,22 @@ I am passionate about learning new things and solving problems. I am currently a
 
 
 ## Data Science and ML 
+> Machine learning
+I am intereted in finding ways to utilise AI and machine learning for the use of the community. I work with classical ML algorithms as well as training Deep Neural Networks with Tensorflow.
 
+> Data Visulization
+I enjoy making visualizations of the data into interactive plots. It helps users to interact with the data to explore and engage further. I am currently working on the project DataNL.
 
-
-
---- 
 
 
 ## Web development
-I started learning learning web development in order to be able to convert ideas to prototypes. I learnt React and Ionic framework for front-end, and
+I started learning learning web development to be able to convert ideas to working prototypes. I learnt React and Ionic framework for front-end, and
 Gatsby and Jekyll for static websites. Currently I am exploring Dash to deploy ML and data science apps. 
 
 ---
 # Entrepreneurship
 ## Inverte
-I am doing the Genesis Evolution program as a Co-founder of Inverte. Inverte is a pre-consumer food waste solution for fast food chains and restaurants.
+I am doing the [Genesis Evolution program](https://www.genesiscentre.ca/evolution) as a Co-founder of [Inverte](https://www.inverte.ca). Inverte is a pre-consumer food waste solution for fast food chains and restaurants.
 ##  Eden 
 Eden is the app based solution that won thrid prize in the the Mount Pearl Hackathon. Eden tackles food waste at consumer level. The further development of the project is on the hold for now. 
 
