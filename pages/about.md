@@ -10,7 +10,8 @@ I am passionate about learning new things and solving problems. I am currently a
 
 ---
 
-
+* TOC
+{:toc}
 
 
 # Learning projects
