@@ -1,8 +1,6 @@
 ---
 layout: page
 title: DataNL Low income
-feature-img: "assets/img/Battery.JPG"
-thumbnail: "assets/img/Battery.JPG"
 tags: [DataNL, Data]
 ---
 # Low income in Newfoundland
