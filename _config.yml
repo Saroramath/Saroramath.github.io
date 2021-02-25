@@ -10,7 +10,7 @@ favicon:                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Blog # Change Blog header text
-header_feature_image: assets/img/Battery.JPG
+header_feature_image: 
 footer_text: " "
 
 # Blog
